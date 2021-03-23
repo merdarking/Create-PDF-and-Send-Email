@@ -1,2 +1,9 @@
 # Create-PDF-and-Send-Email
-Coursera IT Automation with Python Final Project 3
+Project Tasks related to creating pdf and sending email using Python script
+
+Get summary report of the biggest revenue, the biggest sales of car model, and the biggest sales of the  car year
+All of the information in json format is converted into table
+
+#TODO part is the part edited
+
+Some of the codes are provided
